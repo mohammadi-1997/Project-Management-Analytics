@@ -76,12 +76,6 @@ Project-Management-Analytics/
 │   ├── 03_nlp_analysis.ipynb
 │   └── 04_advanced_analysis.ipynb
 │
-├── scripts/
-│   ├── data_cleaning.py
-│   ├── eda.py
-│   ├── nlp_analysis.py
-│   └── clustering_analysis.py
-│
 └── reports/
     └── figures/
 
